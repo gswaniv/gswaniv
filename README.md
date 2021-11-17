@@ -1,4 +1,5 @@
 ### Hi there 👋
+Welcome to my page and here are a few things that I am currenty working on:
 
 <!--
 **gswaniv/gswaniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
