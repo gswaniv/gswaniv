@@ -1,17 +1,14 @@
-### Hi there 👋
-Welcome to my page and here are a few things that I am currenty working on:
+### Hello my name is George Swan IV 
+I prefer to use He/Him pronouns.
 
-<!--
-**gswaniv/gswaniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Front End Web Developer 
 
-Here are some ideas to get you started:
+A little background about myself:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I attended Kenzie Academy where I obtained my Front End Web Developer Certification as of November 2021.
+
+I also attended Lawrence Technological University and hold a B.S in Business Management as of 2006.
+
+I am currently working on adding more work to this page for my portfolio and have made public my final capstone project as a start.
+
+I am also looking to learn react.js as well as express as well in the near future.
