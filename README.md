@@ -1,7 +1,7 @@
 ### Hello my name is George Swan IV 
 I prefer to use He/Him pronouns.
 
-I am a Front End Web Developer 
+I am a Front End Developer 
 
 A little background about myself:
 
